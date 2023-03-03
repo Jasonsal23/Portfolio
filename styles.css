@@ -6,7 +6,7 @@ body {
 }
 h1 {
     background-color: white;
-    font-size: 24px;
+    font-size: 30px;
     border-radius: 1px;
     border-style: solid;
     display:inline-block;
@@ -23,8 +23,22 @@ p {
     font-size: 24px;
     border-radius: 1px;
     border-style: solid;
+
 }
 img {
     height: 200px;
     width: 200px;
+}
+
+h3 {
+    background-color: white;
+    font-size: 24px;
+    border-radius: 1px;
+    border-style: solid;
+    display: inline;
+    border: dotted;
+}
+ul {
+    background-color: white;
+    
 }
