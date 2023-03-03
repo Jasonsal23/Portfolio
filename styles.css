@@ -9,16 +9,22 @@ h1 {
     font-size: 24px;
     border-radius: 1px;
     border-style: solid;
+    display:inline-block;
 }
 h2 {
     background-color: white;
     font-size: 24px;
     border-radius: 1px;
     border-style: solid;
+    display: inline;
 }
 p {
     background-color: white;
     font-size: 24px;
     border-radius: 1px;
     border-style: solid;
+}
+img {
+    height: 200px;
+    width: 200px;
 }
