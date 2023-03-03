@@ -10,6 +10,8 @@ h1 {
     border-radius: 1px;
     border-style: solid;
     display:inline-block;
+    border-color: red;
+    
 }
 h2 {
     background-color: white;
@@ -17,17 +19,23 @@ h2 {
     border-radius: 1px;
     border-style: solid;
     display: inline;
+    border-color: red;
 }
 p {
     background-color: white;
     font-size: 24px;
     border-radius: 1px;
     border-style: solid;
+    text-align: center;
+    border-color: yellow;
 
 }
 img {
     height: 200px;
     width: 200px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: red;
 }
 
 h3 {
@@ -37,8 +45,10 @@ h3 {
     border-style: solid;
     display: inline;
     border: dotted;
+    border-color: green;
+    
 }
 ul {
     background-color: white;
-    
+   
 }
