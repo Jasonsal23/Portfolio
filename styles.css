@@ -3,6 +3,7 @@ body {
     background-size: auto;
     background-color: beige;
     line-height: 1.5em
+    
 }
 h1 {
     background-color: white;
@@ -28,6 +29,7 @@ p {
     border-style: solid;
     text-align: center;
     border-color: yellow;
+    cursor: grab;
 
 }
 img {
@@ -36,6 +38,7 @@ img {
     border-radius: 15px;
     border-style: solid;
     border-color: red;
+    cursor: crosshair;
 }
 
 h3 {
@@ -51,6 +54,6 @@ h3 {
 }
 ul {
     background-color: white;
-
+    cursor: wait;
    
 }
