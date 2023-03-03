@@ -46,9 +46,11 @@ h3 {
     display: inline;
     border: dotted;
     border-color: green;
+    font-style: italic;
     
 }
 ul {
     background-color: white;
+
    
 }
