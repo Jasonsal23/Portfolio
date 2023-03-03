@@ -1,4 +1,18 @@
 body {
-    background-color: green;
+    background-image: url("coding-portfolio.jpeg");
+    background-size: auto;
+    background-color: beige;
     line-height: 1.5em
+}
+h1 {
+    background-color: white;
+    font-size: 24px;
+    border-radius: 1px;
+    border-style: solid;
+}
+h2 {
+    background-color: white;
+    font-size: 24px;
+    border-radius: 1px;
+    border-style: solid;
 }
